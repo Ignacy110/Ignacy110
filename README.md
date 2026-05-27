@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Ignacy110
+<p>I develop myself by creating for others.</p>
 
 ## Self-introduction 💡
-<p>I develop myself by creating for others.</p>
+<p>I program microcontrollers as a hobby and create advanced projects using them. I have also started writing my first applications for the Windows system using .NET.</p>
 
 ## Skills 🛠️
 <a href="https://github.com/tandpfun/skill-icons">
